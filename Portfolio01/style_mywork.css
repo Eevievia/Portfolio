@@ -1,0 +1,126 @@
+body{
+    background-image: url(Imgs/Coral\ n\ blue\ smoke_WEB.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.514);
+    height: 60px;
+    border: 5px solid black;
+    border-radius: 15px;
+    font-family: 'Imbue', serif;
+}
+a{
+    margin: 0px 50px 0px 50px;
+    text-decoration: none;
+    font-size: 45px;
+    color: #d3bdc9;
+    }
+    nav{
+        margin-top: 5px;
+    }
+nav a:hover{
+    color: #c255499d;
+}
+#logo{
+    width: 170px;
+    height: 120px;
+    margin-top: -30px;
+}
+h1{
+    margin-top: 40px;
+    margin-left: 85px;
+    color:rgba(0, 0, 0, 0.514) ;
+    font-size: 75px;
+    font-family: 'Libre Baskerville', serif;
+}
+h3{
+    margin-top: -45px;
+    margin-left: 90px;
+    color:rgba(0, 0, 0, 0.514) ;
+    font-size: 35px;
+    font-family: 'Libre Baskerville', serif;
+}
+.container{
+    background-color: rgba(0, 0, 0, 0.63);
+    width: 800px;
+    height: 600px;
+    padding-top: 30px;
+    margin-left: 50px;
+    border-radius: 20px;
+    border: 5px solid black;
+    margin-bottom: 50px;
+}
+.myworklogo{
+    height: 211px;
+    width: 300px;
+    margin-top: -70px;
+    margin-left: 250px;
+}
+h4{
+    margin-left: 210px;
+    margin-top: -50px;
+    margin-bottom: 50px;
+    font-size: 30px;
+    color: #d3bdc9;
+    font-family: 'Libre Baskerville', serif;
+}
+#skater{
+   height: 383px;
+   width: 639px;
+   margin-left: 75px;
+   margin-top: -20px;
+   border: 2px solid black;
+}
+.container1{
+    background-color: rgba(0, 0, 0, 0.63);
+    width: 800px;
+    height: 600px;
+    padding-top: 30px;
+    margin-left: 50px;
+    border-radius: 20px;
+    border: 5px solid black;
+}
+#trees{
+    height: 378px;
+    width: 504px;
+    margin-left: 145px;
+    margin-top: -20px;
+    border: 2px solid black;
+ }
+.container2{
+    background-color: rgba(0, 0, 0, 0.63);
+    width: 800px;
+    height: 600px;
+    padding-top: 30px;
+    margin-left: 900px;
+    margin-top: -1330px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    border: 5px solid black;
+}
+#papegøje{
+    height: 410px;
+   width: 410px;
+   margin-left: 190px;
+   margin-top: -20px;
+   border: 2px solid black;
+}
+.container3{
+    background-color: rgba(0, 0, 0, 0.63);
+    width: 800px;
+    height: 600px;
+    padding-top: 30px;
+    margin-left: 900px;
+    border-radius: 20px;
+    border: 5px solid black;
+}
+#disco{
+    height: 410px;
+   width: 410px;
+   margin-left: 190px;
+   margin-top: -20px;
+   border: 2px solid black;
+}

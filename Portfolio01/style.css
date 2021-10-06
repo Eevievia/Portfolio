@@ -1,0 +1,97 @@
+/*Top bar med navn og 4 tabs*/
+body{
+    background-image: url(Imgs/Coral\ n\ blue\ smoke_WEB.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1045px;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.514);
+    height: 60px;
+    border: 5px solid black;
+    border-radius: 15px;
+    font-family: 'Imbue', serif;
+}
+h1{
+    color: rgba(0, 0, 0, 0.514);
+    text-align: left;
+    font-size: 120px;
+    margin-left: 85px;
+    margin-top: 0px;
+    font-family: 'Libre Baskerville', serif;
+}
+h2{
+    margin-top: -50px;
+    margin-left: 110px;
+    color:rgba(0, 0, 0, 0.514) ;
+    font-size: 65px;
+    font-family: 'Libre Baskerville', serif;
+}
+h3{
+    margin-top: -50px;
+    margin-left: 110px;
+    color:rgba(0, 0, 0, 0.514) ;
+    font-size: 50px;
+    font-family: 'Libre Baskerville', serif;
+}
+a{
+margin: 0px 50px 0px 50px;
+text-decoration: none;
+font-size: 45px;
+color: #d3bdc9;
+}
+nav{
+    margin-top: 5px;
+}
+nav a:hover{
+    color: #c255499d;
+}
+#logo{
+    width: 170px;
+    height: 120px;
+    margin-top: -30px;
+}
+.empty{
+    background-color: rgba(0, 0, 0, 0.514);
+    height: 360px;
+    width: 410px;
+    border-radius: 150px;
+    margin-left: 1000px;
+    margin-top: -390px;
+    border: 5px solid black;
+}
+#biglogo{
+    display:flexbox;
+    height: 423px;
+    width: 600px;
+    margin-top: -30px;
+    transform: rotate(-30deg);
+    margin-left: -85px;
+}
+.empty:hover{
+    color: black;
+}
+header{
+    margin-top: 280px;
+    margin-left: 120px;
+}
+h1:hover{
+    color: #da4c4e86;
+}
+h2:hover{
+    color: #da4c4e86;
+}
+h3:hover{
+    color: #da4c4e86;
+}
+#home{
+    display: flex;
+    height: 55px;
+    width: 55px;
+    margin-bottom: 2px;
+    margin-left: 600px;
+    margin-right: -190px;
+}
+
